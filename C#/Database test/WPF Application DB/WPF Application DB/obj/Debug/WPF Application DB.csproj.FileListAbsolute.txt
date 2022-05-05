@@ -1,0 +1,24 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\WPF Application DB.exe.config
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\WPF Application DB.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\WPF Application DB.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\EntityFramework.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\EntityFramework.xml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\MainWindow.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\App.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB_Content.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB_MarkupCompile.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB_MarkupCompile.lref
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\MainWindow.baml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.g.resources
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF_Application_DB.Properties.Resources.resources
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.csproj.CopyComplete
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\WPF Application DB.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\CRUD.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\WPF Application DB\WPF Application DB\obj\Debug\CRUD.baml

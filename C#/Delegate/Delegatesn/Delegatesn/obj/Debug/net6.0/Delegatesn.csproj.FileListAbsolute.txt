@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\Delegatesn.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\Delegatesn.deps.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\Delegatesn.runtimeconfig.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\Delegatesn.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\ref\Delegatesn.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\bin\Debug\net6.0\Delegatesn.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\ref\Delegatesn.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegatesn\Delegatesn\obj\Debug\net6.0\Delegatesn.genruntimeconfig.cache

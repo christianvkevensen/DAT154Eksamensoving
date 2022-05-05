@@ -1,0 +1,27 @@
+﻿@page "/studentPage"
+@using Oblig3_i_Blazor.Models
+@inject StudentService studentService
+@inject Oblig3Context _context
+<h3>StudentPage</h3>
+
+
+
+<form>
+    <input id="@inp"/>
+    <button type="submit">Search</button>
+</form>
+
+    <ui>
+        
+        <li></li>
+    </ui>
+
+@code {
+    List<Student> students;
+    string inp;
+
+    public void searchStudent()
+    {
+        students = studentService.searchStudents(inp);
+    }
+}

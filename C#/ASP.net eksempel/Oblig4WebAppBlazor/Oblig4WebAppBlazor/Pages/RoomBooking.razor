@@ -1,0 +1,52 @@
+﻿@page "/roomBooking"
+@using Oblig4WebAppBlazor.Models
+@using Oblig4WebAppBlazor.Utils
+@inject HotellService hotellservice;
+<h3>RoomBooking</h3>
+
+
+<h2>Søk etter rom!</h2>
+<div>
+    <p>Velg Antall Senger</p>
+    <select @bind="beds">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+    </select>
+
+    <p>Velg Kvalitet</p>
+    <select @bind="quality">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+    </select>
+    <input @bind="username"/>
+    <button @onclick="searchRoom">Search!</button>
+
+    @if (rooms != null)
+    {
+        @foreach(Room r in rooms)
+        {
+            <p>This is room number: @r.RoomNumber, 
+                <br>Quality: @r.Quality, <br>Beds: @r.NumberOfBeds <button @onclick="bookRoom">Book this room!</button></p>
+        }
+    }
+</div>
+@code {
+    string username;
+    int beds;
+    int quality;
+    List<Room> rooms = new List<Room>();
+
+
+
+    public void searchRoom()
+    {
+        rooms = hotellservice.getRooms(beds, quality);
+    }
+    public void bookRoom()
+    {
+        
+    }
+
+}

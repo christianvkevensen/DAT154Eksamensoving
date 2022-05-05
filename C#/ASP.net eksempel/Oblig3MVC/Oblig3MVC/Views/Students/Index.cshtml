@@ -1,0 +1,153 @@
+﻿@using Oblig3MVC;
+@{
+    ViewData["Title"] = "Index";
+    //List<Student> students = (List<Student>)ViewData["students"];
+    //List<Student> courses = (List<Student>)ViewData["courses"];
+    //List<Student> grades = (List<Student>)ViewData["grades"];
+    List<Grade> studentCourses = (List<Grade>)ViewData["StudentCourses"];
+    List<Grade> foundGrades = (List<Grade>)ViewData["FoundGrades"];
+
+}
+
+<h1>Index</h1>
+
+<form asp-action="Index">
+    <input name="input">
+    <button type="submit">Test</button>
+</form>
+
+<form asp-action="Index">
+    <p>Select Courses</p>
+    <select name="selectedCourse">
+
+        @foreach (Course c in ViewBag.Courses!)
+        {
+            <option>
+                <a>@c.Coursecode</a>
+            </option>
+        }
+
+    </select>
+    <button type="submit">Search!</button>
+</form>
+
+<form asp-action="searchGrades">
+    <select name="selectedGrade">
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+        <option>D</option>
+        <option>E</option>
+        <option>F</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div style="float: left;margin-right:100px">
+    <table style="display: inline-block;" class="table">
+        <thead>
+            <tr>
+                <th>
+                    <p>Names</p>
+                </th>
+                <th>
+                    <p>Grade</p>
+                </th>
+                <th>
+                    <p>Course</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (foundGrades != null)
+            {
+                @foreach (Grade item in ViewBag.FoundGrades!)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Student.Studentname)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Grade1)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Coursecode)
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<div style="float: left">
+    <table class="table" style="display: inline-block;">
+        <thead>
+            <tr>
+                <th>
+                    <p>Names</p>
+                </th>
+                <th>
+                    <p>Age</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.FoundGrades != null)
+            {
+         
+            @foreach (Grade item in ViewBag.FoundGrades!)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Student.Studentname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Grade1)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Coursecode)
+                    </td>
+                    
+                </tr>
+            }
+               }
+        </tbody>
+    </table>
+</div>
+<div style="float: left">
+    <table class="table" style="display: inline-block;">
+        <thead>
+            <tr>
+                <th>
+                    <p>Names</p>
+                </th>
+                <th>
+                    <p>Age</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Student item in ViewBag.Students)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Studentname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Studentage)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

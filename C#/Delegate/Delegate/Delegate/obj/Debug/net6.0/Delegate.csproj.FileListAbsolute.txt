@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\ref\Delegate.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache

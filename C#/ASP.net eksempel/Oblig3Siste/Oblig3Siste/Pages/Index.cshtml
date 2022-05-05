@@ -1,0 +1,137 @@
+﻿@page
+@using Oblig3Siste.Models
+@model Oblig3Siste.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    List<Student> students = (List<Student>) ViewData["Students"];
+
+    List<Grade> grades = (List<Grade>) ViewData["Grades"];
+    List<Course> courses = (List<Course>) ViewData["Courses"];
+}
+
+<h1>Index</h1>
+
+<form asp-page-handler="SearchStudent" method="post">
+    <input name="inp"/>
+    <button type="submit">Search!</button>
+</form>
+
+<form asp-page-handler="SearchCourse" method="post">
+    <select name="selectedCourse">
+        
+        @foreach(Course c in courses)
+        {
+            <option>@c.Coursecode</option>
+        }
+    </select>
+    <button type="submit">Sjekk</button>
+</form>
+
+<form asp-page-handler="SearchGrade" method="post">
+    <select name="selectedGrade">
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+        <option>D</option>
+        <option>E</option>
+        <option>F</option>
+    </select>
+    <button type="submit">Sjekk</button>
+</form>
+<form asp-page-handler="SearchF" method="post">
+<button type="submit">Sjekk</button>
+</form>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+
+<div style="float: left;margin-right:100px;">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                CourseCode
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+      
+            @foreach(Course c in Model.Courses)
+            {
+               <tr>
+                   <td><a asp-page="./CourseManager" asp-route-id="@c.Coursecode">@c.Coursecode</a></td>
+               </tr> 
+            } 
+
+}
+    </tbody>
+</table>
+ </div> 
+<div style="float: left;margin-right:100px;">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                CourseCode
+            </th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+
+@foreach (var item in grades) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.Studentname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coursecode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade1)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
+ </div> 
+
+ <div style="float: left;margin-right:100px;">
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Age
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+
+@foreach (var item in students) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studentname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studentage)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
+</div>

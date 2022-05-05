@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c542569a-f7ac-4e93-9b56-1660e0e902c5": {
+      "ProjectGuid": "c542569a-f7ac-4e93-9b56-1660e0e902c5",
+      "DisplayName": "Graphics",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

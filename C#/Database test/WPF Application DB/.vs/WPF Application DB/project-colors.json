@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b21bb679-9f01-4611-837d-aa6363dabe12": {
+      "ProjectGuid": "b21bb679-9f01-4611-837d-aa6363dabe12",
+      "DisplayName": "WPF Application DB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

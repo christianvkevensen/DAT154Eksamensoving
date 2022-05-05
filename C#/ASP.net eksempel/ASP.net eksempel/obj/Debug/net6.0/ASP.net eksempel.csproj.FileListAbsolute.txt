@@ -1,0 +1,30 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\appsettings.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.staticwebassets.runtime.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.deps.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.runtimeconfig.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ref\ASP.net eksempel.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\ASP.net eksempel.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.RazorAssemblyInfo.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.RazorAssemblyInfo.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\scopedcss\bundle\ASP.net eksempel.styles.css
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\scopedcss\projectbundle\ASP.net eksempel.bundle.scp.css
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.csproj.CopyComplete
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ref\ASP.net eksempel.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\ASP.net eksempel\ASP.net eksempel\obj\Debug\net6.0\ASP.net eksempel.genruntimeconfig.cache

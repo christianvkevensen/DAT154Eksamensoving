@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\Database LINQ.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\Database LINQ.deps.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\Database LINQ.runtimeconfig.json
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\Database LINQ.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\ref\Database LINQ.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\bin\Debug\net6.0\Database LINQ.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\ref\Database LINQ.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\Database LINQ\Database LINQ\obj\Debug\net6.0\Database LINQ.genruntimeconfig.cache

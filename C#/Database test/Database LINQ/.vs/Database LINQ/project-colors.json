@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65c606d2-78a2-43d3-a9ae-961082458165": {
+      "ProjectGuid": "65c606d2-78a2-43d3-a9ae-961082458165",
+      "DisplayName": "Database LINQ",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

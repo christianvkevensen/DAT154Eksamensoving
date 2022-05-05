@@ -1,0 +1,26 @@
+﻿@page
+@using Oblig3.Models
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    List<Student> students = (List<Student>) ViewData["Students"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <form asp-page-handler="SearchStudent" method="post" id="form1">
+        <input type="text" name="input"/>
+        <button type="submit">Search!</button>       
+    </form>
+
+    <ul>
+            @foreach(Student s in students)
+        {
+            <li>@s.Studentname</li>
+        }
+        </ul>
+    
+</div>

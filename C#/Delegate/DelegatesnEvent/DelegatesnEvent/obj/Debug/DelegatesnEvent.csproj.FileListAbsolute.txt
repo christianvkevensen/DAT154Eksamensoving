@@ -1,0 +1,8 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\bin\Debug\DelegatesnEvent.exe.config
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\bin\Debug\DelegatesnEvent.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\bin\Debug\DelegatesnEvent.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\obj\Debug\DelegatesnEvent.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\obj\Debug\DelegatesnEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\obj\Debug\DelegatesnEvent.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\obj\Debug\DelegatesnEvent.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Delegate\DelegatesnEvent\DelegatesnEvent\obj\Debug\DelegatesnEvent.pdb

@@ -1,0 +1,95 @@
+﻿@page
+@using Oblig3Siste.Models
+@model Oblig3Siste.Pages.CourseManagerModel
+@{
+    List<Student> students = (List<Student>) ViewData["Students"];
+    List<Grade> grades = (List<Grade>) ViewData["Grades"];
+    List<Course> courses = (List<Course>) ViewData["Courses"];
+}
+<h2>Hello!</h2>
+
+<div style="float: left;margin-right:100px;">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                CourseCode
+            </th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+
+@foreach (var item in students) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studentname)
+            </td>
+            <td>
+                <form asp-page-handler="AddStudent" method="post">
+                    <input type="hidden" name="course" value="@courses[0].Coursecode">
+                    <input type="hidden" name="studentId" value="@item.Id">
+                    <select name="grade">
+                        <option>A</option>
+                        <option>B</option>
+                        <option>C</option>
+                        <option>D</option>
+                        <option>E</option>
+                        <option>F</option>
+                    </select>
+                    <button type="submit">Legg til</button>
+                </form>
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
+ </div> 
+
+ <div style="float: left;margin-right:100px;">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                CourseCode
+            </th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+
+@foreach (var item in grades) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.Studentname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coursecode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade1)
+            </td>
+            <td>
+                <form asp-page-handler="RemoveStudent" method="post">
+                    <input type="hidden" name="course" value="@item.Coursecode">
+                    <input type="hidden" name="studentId" value="@item.Studentid">
+                    <button type="submit" name="grade">Fjern fra bitch</button>
+                </form>
+            </td>
+
+            
+            
+        </tr>
+}
+    </tbody>
+</table>
+ </div> 

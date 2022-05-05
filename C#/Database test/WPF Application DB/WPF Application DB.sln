@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Application DB", "WPF Application DB\WPF Application DB.csproj", "{B21BB679-9F01-4611-837D-AA6363DABE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21BB679-9F01-4611-837D-AA6363DABE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21BB679-9F01-4611-837D-AA6363DABE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21BB679-9F01-4611-837D-AA6363DABE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21BB679-9F01-4611-837D-AA6363DABE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4A6BC7-1470-4CC2-91AA-544D64F177AF}
+	EndGlobalSection
+EndGlobal

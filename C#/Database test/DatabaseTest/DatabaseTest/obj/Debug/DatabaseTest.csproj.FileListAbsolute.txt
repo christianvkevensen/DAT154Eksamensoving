@@ -1,0 +1,13 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\EntityFramework.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\EntityFramework.xml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.CopyComplete
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Database test\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb

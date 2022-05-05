@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc186d3f-b0e2-42ee-b2eb-bd253630c785": {
+      "ProjectGuid": "cc186d3f-b0e2-42ee-b2eb-bd253630c785",
+      "DisplayName": "Graphics in WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

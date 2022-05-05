@@ -1,0 +1,49 @@
+﻿@page "/studentPage"
+@using Oblig3Ny_Blazor.Models
+@inject StudentService studentService
+@inject Oblig3Context _context
+<h3>StudentPage</h3>
+
+
+
+
+<input @bind="inp"/>
+<button @onclick="searchStudent" type="submit">Search</button>
+<select @bind="courses">
+ 
+</select>
+
+<div>
+    <table class="table">
+    <thead>
+        <tr>Students</tr>
+    </thead>
+    <tbody>
+        @if(students != null)
+        {
+             @foreach (Student s in students)
+                {
+                   <tr>@s.Studentname</tr>
+            
+                 }
+       }
+    </tbody>
+</table>
+
+
+</div>
+
+
+   
+
+@code {
+    List<Student> students;
+    List<Course> courses;
+    string inp;
+
+    public void searchStudent()
+    {
+        Console.WriteLine("Første");
+        students = studentService.searchStudents(inp);
+    }
+}
