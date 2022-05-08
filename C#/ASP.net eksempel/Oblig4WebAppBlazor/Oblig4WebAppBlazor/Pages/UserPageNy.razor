@@ -1,0 +1,28 @@
+﻿@page "/userPage"
+@using Oblig4WebAppBlazor.Models
+@using Oblig4WebAppBlazor.Utils
+@inject HotellService hotellservice;
+
+<h3>UserPageNy</h3>
+<input @bind="username"/>
+<button @onclick="searchUser">Search</button>
+
+@if (reservations != null && reservations.Count()>0)
+{
+    <p>@username</p>
+    foreach(Reservation r in reservations)
+    {
+        <p>
+            @r.startDate, @r.endDate, @r.ReservationId
+        </p>
+    }
+}
+
+@code {
+    string username;
+    List<Reservation> reservations;
+
+    public void searchUser(){
+        reservations = hotellservice.searchUser(username);
+    }
+}

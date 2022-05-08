@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__EFMigrationsHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="reservations">
+    <Key>
+      <PropertyRef Name="ReservationId" />
+    </Key>
+    <Property Name="ReservationId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="startDate" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="endDate" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="RoomNumber" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="450" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="rooms" Relationship="Self.FK_reservations_rooms_RoomNumber" FromRole="reservations" ToRole="rooms" />
+    <NavigationProperty Name="users" Relationship="Self.FK_reservations_users_UserName" FromRole="reservations" ToRole="users" />
+  </EntityType>
+  <EntityType Name="rooms">
+    <Key>
+      <PropertyRef Name="RoomNumber" />
+    </Key>
+    <Property Name="RoomNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberOfBeds" Type="Int32" Nullable="false" />
+    <Property Name="Quality" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="reservations" Relationship="Self.FK_reservations_rooms_RoomNumber" FromRole="rooms" ToRole="reservations" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="450" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="reservations" Relationship="Self.FK_reservations_users_UserName" FromRole="users" ToRole="reservations" />
+  </EntityType>
+  <Association Name="FK_reservations_rooms_RoomNumber">
+    <End Role="rooms" Type="Self.rooms" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="reservations" Type="Self.reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="rooms">
+        <PropertyRef Name="RoomNumber" />
+      </Principal>
+      <Dependent Role="reservations">
+        <PropertyRef Name="RoomNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_reservations_users_UserName">
+    <End Role="users" Type="Self.users" Multiplicity="0..1" />
+    <End Role="reservations" Type="Self.reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="UserName" />
+      </Principal>
+      <Dependent Role="reservations">
+        <PropertyRef Name="UserName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__EFMigrationsHistory" EntityType="Self.C__EFMigrationsHistory" />
+    <EntitySet Name="reservations" EntityType="Self.reservations" />
+    <EntitySet Name="rooms" EntityType="Self.rooms" />
+    <EntitySet Name="users" EntityType="Self.users" />
+    <AssociationSet Name="FK_reservations_rooms_RoomNumber" Association="Self.FK_reservations_rooms_RoomNumber">
+      <End Role="rooms" EntitySet="rooms" />
+      <End Role="reservations" EntitySet="reservations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_reservations_users_UserName" Association="Self.FK_reservations_users_UserName">
+      <End Role="users" EntitySet="users" />
+      <End Role="reservations" EntitySet="reservations" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+﻿@page "/"
+@using MVVMNy.ViewModel
+@inject MainViewModel mainViewModel;
+
+
+<h1>Hello, world!</h1>
+
+@foreach (var item in Bind(x => x.Items))
+{
+    <label>@Bind(item, x => x.Name)</label>
+}
+
+@code{
+
+}

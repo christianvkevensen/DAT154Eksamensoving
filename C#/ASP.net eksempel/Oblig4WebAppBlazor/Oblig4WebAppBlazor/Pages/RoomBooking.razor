@@ -1,11 +1,13 @@
 ﻿@page "/roomBooking"
 @using Oblig4WebAppBlazor.Models
 @using Oblig4WebAppBlazor.Utils
+@using BlazorDateRangePicker;
 @inject HotellService hotellservice;
 <h3>RoomBooking</h3>
 
 
 <h2>Søk etter rom!</h2>
+<DateRangePicker @bind-StartDate="startDate" @bind-EndDate="endDate"></DateRangePicker>
 <div>
     <p>Velg Antall Senger</p>
     <select @bind="beds">
@@ -20,33 +22,35 @@
         <option>2</option>
         <option>3</option>
     </select>
-    <input @bind="username"/>
     <button @onclick="searchRoom">Search!</button>
 
     @if (rooms != null)
-    {
-        @foreach(Room r in rooms)
-        {
-            <p>This is room number: @r.RoomNumber, 
-                <br>Quality: @r.Quality, <br>Beds: @r.NumberOfBeds <button @onclick="bookRoom">Book this room!</button></p>
-        }
+    {   
+            <p>This is room number: @rooms[0].RoomNumber, 
+                <br>Quality: @rooms[0].Quality, <br>Beds: @rooms[0].NumberOfBeds <button @onclick="()=>bookRoom(rooms[0])">Book this room!</button> 
+                <input @bind="username"/></p>
     }
 </div>
 @code {
     string username;
     int beds;
     int quality;
-    List<Room> rooms = new List<Room>();
+    DateTimeOffset? startDate;
+    DateTimeOffset? endDate;
+    List<Room> rooms;
+    bool booked;
 
 
 
     public void searchRoom()
     {
-        rooms = hotellservice.getRooms(beds, quality);
+        booked = false;
+        rooms = hotellservice.getRooms(beds, quality, startDate.Value.DateTime, endDate.Value.DateTime);
     }
-    public void bookRoom()
+    public void bookRoom(Room r)
     {
-        
+        hotellservice.bookRoom(r, username, startDate.Value.DateTime, endDate.Value.DateTime);
+        booked = true;
     }
 
 }

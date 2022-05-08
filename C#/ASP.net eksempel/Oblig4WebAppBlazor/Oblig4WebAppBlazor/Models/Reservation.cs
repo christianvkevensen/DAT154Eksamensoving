@@ -9,5 +9,6 @@
 
         public Room room { get; set; }
         
+        public User user { get; set; }
     }
 }

@@ -34,6 +34,7 @@ namespace Oblig4WebAppBlazor.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("UserName")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("endDate")
@@ -83,16 +84,25 @@ namespace Oblig4WebAppBlazor.Migrations
             modelBuilder.Entity("Oblig4WebAppBlazor.Models.Reservation", b =>
                 {
                     b.HasOne("Oblig4WebAppBlazor.Models.Room", "room")
-                        .WithMany()
+                        .WithMany("Reservations")
                         .HasForeignKey("RoomNumber")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Oblig4WebAppBlazor.Models.User", null)
+                    b.HasOne("Oblig4WebAppBlazor.Models.User", "user")
                         .WithMany("Reservations")
-                        .HasForeignKey("UserName");
+                        .HasForeignKey("UserName")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("room");
+
+                    b.Navigation("user");
+                });
+
+            modelBuilder.Entity("Oblig4WebAppBlazor.Models.Room", b =>
+                {
+                    b.Navigation("Reservations");
                 });
 
             modelBuilder.Entity("Oblig4WebAppBlazor.Models.User", b =>

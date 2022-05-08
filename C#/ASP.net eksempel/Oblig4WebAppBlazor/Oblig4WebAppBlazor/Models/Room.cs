@@ -11,6 +11,6 @@ namespace Oblig4WebAppBlazor.Models
 
         public int Quality { get; set; }
 
-        
+        public virtual List<Reservation> Reservations { get; set; } = new List<Reservation>();
     }
 }

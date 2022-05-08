@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CleaningService.Models.Oppgave>
+
+@{
+    ViewData["Title"] = "Index";
+    string task = (string)ViewData["task"];
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+
+<form asp-page-handler="chooseWork" method="get">
+    <select name="task">
+        <option>Maintainer</option>
+        <option>Cleaner</option>
+        <option>RoomService</option>
+    </select>
+    <button type="submit">Test</button>
+</form>
+<h2>@task</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Work)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Work)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OppgaveId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OppgaveId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OppgaveId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

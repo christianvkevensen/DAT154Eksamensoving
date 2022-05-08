@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<div>
+    <form asp-action="chooseWork" method="post">
+    <h2>Choose one:</h2>
+    <select name="work">
+        <option>Maintainer</option>
+        <option>Cleaner</option>
+        <option>Service</option>
+    </select>
+    <button type="submit">Go to site</button>
+
+    <a asp-controller="Maintainer">Trykk her</a>
+
+    </form>
+</div>

@@ -10,7 +10,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "d942f949-0dcb-4f60-9967-e70b4a3b1973": {
+      "ProjectGuid": "d942f949-0dcb-4f60-9967-e70b4a3b1973",
+      "DisplayName": "Oblig4FrontDesk",
+      "ColorIndex": 1
+    },
+    "8a883d14-81d7-46c4-9f6e-489e9c84b7c7": {
+      "ProjectGuid": "8a883d14-81d7-46c4-9f6e-489e9c84b7c7",
+      "DisplayName": "CleaningService",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
