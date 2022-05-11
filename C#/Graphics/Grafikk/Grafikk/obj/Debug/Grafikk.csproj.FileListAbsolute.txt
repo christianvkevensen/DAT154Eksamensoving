@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\bin\Debug\Grafikk.exe.config
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\bin\Debug\Grafikk.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\bin\Debug\Grafikk.pdb
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\MainWindow.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\App.g.cs
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk_MarkupCompile.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk_MarkupCompile.lref
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\MainWindow.baml
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.g.resources
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.Properties.Resources.resources
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.exe
+C:\Users\chris\OneDrive\Skole\DAT154\Lectures\EksamensøvingHjemme\C#\Graphics\Grafikk\Grafikk\obj\Debug\Grafikk.pdb
