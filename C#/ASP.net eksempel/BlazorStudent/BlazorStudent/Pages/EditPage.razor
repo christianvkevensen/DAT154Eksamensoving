@@ -1,0 +1,34 @@
+﻿@page "/editPage/{Studentid}"
+@using BlazorStudent.Models
+@using BlazorStudent.Services
+@inject StudentService service;
+<h3>EditPage</h3>
+
+
+<h1>Student: @student.Studentname</h1>
+
+<p>Name:</p>
+<input @bind-value="student.Studentname"/>
+<br />
+<p>Age: </p>
+<input @bind-value="student.Studentage"/>
+
+<button @onclick="updateDatabase">Edit user</button>
+<a href="/studentPage">Go back</a>
+@if (update)
+{
+    <p>Updated complete!</p>
+}
+
+@code {
+    [Parameter]
+    public string Studentid { get; set; }
+    public bool update;
+    public Student student = new Student();
+    protected override async Task OnInitializedAsync() => student = await service.GetStudent(int.Parse(Studentid)); 
+    public async Task updateDatabase()
+    {
+        await service.UpdateStudent(student);
+        update = true;
+    }
+}

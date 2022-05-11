@@ -1,0 +1,36 @@
+﻿@page "/gradePage"
+@using StudentMVVM.Models
+@using StudentMVVM.ViewModels
+<h3>GradePage</h3>
+@inject ISchoolViewModel vm;
+
+<div>
+    <select @bind="vm.course.Coursecode">
+        @foreach (Course c in vm.courses)
+        {
+            <option onclick="@vm.getCourse(@c.Coursecode)">@c.Coursecode</option>
+        }
+    </select>
+</div>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    @foreach(Grade g in vm.grades)
+        {
+            <tr>
+            <td>@g.Studentid</td>
+            <td>@g.Coursecode</td>
+            <td>@g.Grade1</td>
+            <td><a>Edit</a></td>
+            </tr>
+        }
+    
+</table>
+
+@code {
+
+}

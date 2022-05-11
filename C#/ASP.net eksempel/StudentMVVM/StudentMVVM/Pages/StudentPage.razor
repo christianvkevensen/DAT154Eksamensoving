@@ -1,0 +1,35 @@
+﻿@page "/studentPage"
+@using StudentMVVM.Models
+@using ViewModels
+@inject ISchoolViewModel vm;
+<h3>StudentPage</h3>
+
+<div>
+    <input @bind-value="vm.student.Studentname"/>
+    <button @onclick="vm.searchStudent">Search!</button>
+</div>
+
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    @foreach(Student s in vm.students)
+        {
+             <tr>
+            <td>@s.Id</td>
+            <td>@s.Studentname</td>
+            <td>@s.Studentage</td>
+            <td><a>Edit</a></td>
+            </tr>
+        }
+    
+</table>
+
+
+@code {
+
+
+}

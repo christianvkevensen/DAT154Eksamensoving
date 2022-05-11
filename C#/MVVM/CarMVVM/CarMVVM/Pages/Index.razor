@@ -1,0 +1,38 @@
+﻿@page "/"
+@using CarMVVM.ViewModel
+@inject ICarViewModel carViewModel;
+
+<div>
+    <h3>Create Car or Edit car!</h3>
+    <input type="text" name="Name" placeholder="Name" @bind="carViewModel.Name"/>
+    <br />
+    <input type="text" name="Model" placeholder="Model" @bind="carViewModel.Model"/>
+    <br />
+    <input type="number" name="Year" placeholder="Year" @bind="carViewModel.Year"/>    
+    <br />
+    <button @onclick="()=>carViewModel.AddCar(carViewModel.Name, carViewModel.Model, carViewModel.Year)">Add Car</button>
+</div>
+
+
+
+<div>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Model</th>
+            <th>Year</th>
+        </tr>
+    @foreach(var c in carViewModel.Cars)
+        {
+            <tr>
+                <td>@c.Name</td>
+                <td>@c.Model</td>
+                <td>@c.Year</td>
+                <td><button @onclick="()=>carViewModel.DeleteCar(c.Id)">Delete</button></td>
+                <td><button @onclick="()=>carViewModel.EditCar(c.Id,carViewModel.Name, carViewModel.Model, carViewModel.Year)">Edit</button></td>
+            </tr>
+        }
+    </table>
+
+    <button @onclick="()=>carViewModel.GetCars()">Fetch</button>
+</div>

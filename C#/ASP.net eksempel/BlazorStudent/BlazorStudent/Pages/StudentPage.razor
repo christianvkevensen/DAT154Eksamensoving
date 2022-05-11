@@ -1,0 +1,43 @@
+﻿@page "/studentPage"
+@using BlazorStudent.Models
+@using BlazorStudent.Services
+@inject StudentService service;
+<h3>StudentPage</h3>
+
+<div>
+    <input @bind="studName" type="text"/>
+    <button @onclick="searchStud">Search stud</button>
+</div>
+
+<table style="width:30%">
+    <tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Age</th>
+    </tr>
+    @foreach(Student s in students)
+    {
+        <tr>
+        <td>@s.Id</td>
+        <td>@s.Studentname</td>
+        <td>@s.Studentage</td>
+
+        <td>
+            <a href="EditPage/@s.Id">Edit</a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+@code {
+    List<Student> students = new List<Student>();
+    string studName;
+    protected override async Task OnInitializedAsync() => students =  await service.GetStudents();
+
+    public async Task searchStud()
+    {
+        students = await service.SearchStudent(studName);
+    }
+}

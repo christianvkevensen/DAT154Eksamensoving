@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorStudent
+build_property.RootNamespace = BlazorStudent
+build_property.ProjectDir = C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\ASP.net eksempel\BlazorStudent\BlazorStudent\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\ASP.net eksempel\BlazorStudent\BlazorStudent
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/EditPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/StudentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-et7ip6zu6n
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-sqp2puxyzi
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/CRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/CRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/CRUD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/CRUD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/CRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1JVRFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Christian Evensen/Documents/Skole/DAT154/DAT154Eksamensoving/C\#/ASP.net eksempel/BlazorStudent/BlazorStudent/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
