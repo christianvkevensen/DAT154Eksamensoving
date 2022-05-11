@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5bcda32-894a-4012-a593-9a2796caaa92": {
+      "ProjectGuid": "b5bcda32-894a-4012-a593-9a2796caaa92",
+      "DisplayName": "Grafikk",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
