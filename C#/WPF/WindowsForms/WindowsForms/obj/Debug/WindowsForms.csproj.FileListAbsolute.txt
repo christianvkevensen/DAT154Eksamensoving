@@ -1,0 +1,11 @@
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb

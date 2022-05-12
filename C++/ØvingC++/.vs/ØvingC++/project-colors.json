@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17979cf2-17e9-4a41-b28c-1785ee4974e7": {
+      "ProjectGuid": "17979cf2-17e9-4a41-b28c-1785ee4974e7",
+      "DisplayName": "ØvingC++",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2af6cbf6-dccf-46bc-bf21-f2ec84b6fa75": {
+      "ProjectGuid": "2af6cbf6-dccf-46bc-bf21-f2ec84b6fa75",
+      "DisplayName": "PolyMorphism",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22f42205-be9d-447d-8756-5f4c33c38530": {
+      "ProjectGuid": "22f42205-be9d-447d-8756-5f4c33c38530",
+      "DisplayName": "CarApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -27,7 +27,6 @@ namespace DelegateNy
             del += pluss;
             del += divided;
             del += times;
-            Console.WriteLine(del(10));
 
     }
 } 

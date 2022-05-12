@@ -1,0 +1,4 @@
+﻿  MovingBoxArrows.cpp
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C++\MovingBoxArrows\MovingBoxArrows\MovingBoxArrows.cpp(265,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C++\MovingBoxArrows\MovingBoxArrows\MovingBoxArrows.cpp(281): warning C4715: 'WndProc': not all control paths return a value
+  MovingBoxArrows.vcxproj -> C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C++\MovingBoxArrows\x64\Debug\MovingBoxArrows.exe

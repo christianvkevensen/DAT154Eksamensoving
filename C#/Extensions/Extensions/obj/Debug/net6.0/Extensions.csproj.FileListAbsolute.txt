@@ -1,0 +1,15 @@
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\Extensions.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\Extensions.deps.json
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\Extensions.runtimeconfig.json
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\Extensions.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\ref\Extensions.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\bin\Debug\net6.0\Extensions.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfo.cs
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\ref\Extensions.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Extensions\Extensions\obj\Debug\net6.0\Extensions.genruntimeconfig.cache

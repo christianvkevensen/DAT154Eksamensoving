@@ -1,0 +1,15 @@
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\Oblig2Del1.exe
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\Oblig2Del1.deps.json
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\Oblig2Del1.runtimeconfig.json
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\Oblig2Del1.dll
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\ref\Oblig2Del1.dll
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\bin\Debug\net6.0\Oblig2Del1.pdb
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.AssemblyInfoInputs.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.AssemblyInfo.cs
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.dll
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\ref\Oblig2Del1.dll
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.pdb
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Oblig2\Oblig2\Oblig2Del1\obj\Debug\net6.0\Oblig2Del1.genruntimeconfig.cache

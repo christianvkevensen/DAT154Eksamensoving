@@ -1,0 +1,23 @@
+﻿  Oblig1Ny.cpp
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(437,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(438,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(443,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(445,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(457,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(459,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(459,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(460,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(466,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(469,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(469,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(471,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(477,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(479,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(479,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(481,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(489,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(489,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(492,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(494,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\Oblig1Ny\Oblig1Ny.cpp(426,7): warning C4101: 'window': unreferenced local variable
+  Oblig1Ny.vcxproj -> C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\Oblig1Ny\x64\Debug\Oblig1Ny.exe

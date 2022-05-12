@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb1f6db2-133e-4545-99dc-850a9eb79f43": {
+      "ProjectGuid": "fb1f6db2-133e-4545-99dc-850a9eb79f43",
+      "DisplayName": "Oblig2",
+      "ColorIndex": 0
+    },
+    "889b9a70-a294-40ee-8efc-0b78d40773ae": {
+      "ProjectGuid": "889b9a70-a294-40ee-8efc-0b78d40773ae",
+      "DisplayName": "Oblig2Del1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

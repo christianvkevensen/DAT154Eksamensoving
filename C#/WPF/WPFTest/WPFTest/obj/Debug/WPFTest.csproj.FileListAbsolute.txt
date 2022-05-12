@@ -1,0 +1,16 @@
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\bin\Debug\WPFTest.exe.config
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\bin\Debug\WPFTest.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\bin\Debug\WPFTest.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\MainWindow.g.cs
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\App.g.cs
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest_MarkupCompile.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest_MarkupCompile.lref
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\MainWindow.baml
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.g.resources
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.Properties.Resources.resources
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.csproj.GenerateResource.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\WPF\WPFTest\WPFTest\obj\Debug\WPFTest.pdb
