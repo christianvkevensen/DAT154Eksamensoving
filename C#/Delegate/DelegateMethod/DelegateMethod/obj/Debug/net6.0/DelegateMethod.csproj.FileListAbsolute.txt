@@ -1,0 +1,15 @@
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\DelegateMethod.exe
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\DelegateMethod.deps.json
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\DelegateMethod.runtimeconfig.json
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\DelegateMethod.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\ref\DelegateMethod.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\bin\Debug\net6.0\DelegateMethod.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.AssemblyInfoInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.AssemblyInfo.cs
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\ref\DelegateMethod.dll
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.pdb
+C:\Users\Christian Evensen\Documents\Skole\DAT154\DAT154Eksamensoving\C#\Delegate\DelegateMethod\DelegateMethod\obj\Debug\net6.0\DelegateMethod.genruntimeconfig.cache
