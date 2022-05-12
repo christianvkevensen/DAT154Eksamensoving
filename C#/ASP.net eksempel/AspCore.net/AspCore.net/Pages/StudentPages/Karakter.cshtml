@@ -1,0 +1,47 @@
+﻿@page "/grade"
+@using AspCore.net.Models
+@model AspCore.net.Pages.StudentPages.KarakterModel
+@{
+
+}
+
+<form asp-page-handler="SelectGrade" method="post">
+    <select name="gradeSelect">
+         <option>A</option>
+         <option>B</option>
+         <option>C</option>
+         <option>D</option>
+         <option>E</option>
+         <option>F</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Grades[0].Coursecode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Grades[0].Student.Studentname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Grades) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studentid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coursecode)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

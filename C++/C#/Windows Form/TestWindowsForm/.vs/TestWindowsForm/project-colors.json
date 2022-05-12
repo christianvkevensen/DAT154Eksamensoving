@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50002ebc-2f2f-4508-a72d-93903ac275b7": {
+      "ProjectGuid": "50002ebc-2f2f-4508-a72d-93903ac275b7",
+      "DisplayName": "TestWindowsForm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

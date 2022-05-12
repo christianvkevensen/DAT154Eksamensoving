@@ -1,0 +1,11 @@
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\bin\Debug\TestWindowsForm.exe.config
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\bin\Debug\TestWindowsForm.exe
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\bin\Debug\TestWindowsForm.pdb
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.Form1.resources
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.Properties.Resources.resources
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.GenerateResource.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.exe
+C:\Users\Christian Evensen\source\repos\DAT154\Eksamensoving\C++\C#\Windows Form\TestWindowsForm\TestWindowsForm\obj\Debug\TestWindowsForm.pdb
